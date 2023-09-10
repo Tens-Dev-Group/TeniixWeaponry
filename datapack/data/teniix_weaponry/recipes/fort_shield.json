@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " a ",
+        "bcb",
+        " a "
+    ],
+    "key": {
+        "a": {
+            "item": "minecraft:stone_bricks"
+        },
+        "b": {
+            "item": "minecraft:iron_block"
+        },
+        "c": {
+            "item": "minecraft:netherite_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book"
+    }
+}

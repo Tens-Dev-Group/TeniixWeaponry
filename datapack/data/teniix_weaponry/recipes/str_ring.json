@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " a ",
+        "bcb",
+        " a "
+    ],
+    "key": {
+        "a": {
+            "item": "minecraft:netherite_ingot"
+        },
+        "b": {
+            "item": "minecraft:gold_ingot"
+        },
+        "c": {
+            "item": "minecraft:nether_star"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book"
+    }
+}

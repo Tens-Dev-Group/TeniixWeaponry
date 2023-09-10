@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "a ",
+        "dc",
+        "b "
+    ],
+    "key": {
+        "a": {
+            "item": "minecraft:diamond"
+        },
+        "b": {
+            "item": "minecraft:netherite_ingot"
+        },
+        "c": {
+            "item": "minecraft:diamond_block"
+        },
+        "d": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book"
+    }
+}

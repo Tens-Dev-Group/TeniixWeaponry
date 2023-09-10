@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "a ",
+        "bc",
+        "b "
+    ],
+    "key": {
+        "a": {
+            "item": "minecraft:diamond"
+        },
+        "b": {
+            "item": "minecraft:stick"
+        },
+        "c": {
+            "item": "minecraft:diamond_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book"
+    }
+}

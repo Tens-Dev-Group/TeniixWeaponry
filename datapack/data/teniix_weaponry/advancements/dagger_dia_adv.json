@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "teniix_weaponry:dagger_dia"
+            }
+        }
+    },
+    "rewards": {
+        "function": "teniix_weaponry:craft_dagger_dia"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "teniix_weaponry:fort_shield"
+            }
+        }
+    },
+    "rewards": {
+        "function": "teniix_weaponry:craft_fort_shield"
+    }
+}

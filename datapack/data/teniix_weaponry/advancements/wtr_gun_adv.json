@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "teniix_weaponry:wtr_gun"
+            }
+        }
+    },
+    "rewards": {
+        "function": "teniix_weaponry:craft_wtr_gun"
+    }
+}
