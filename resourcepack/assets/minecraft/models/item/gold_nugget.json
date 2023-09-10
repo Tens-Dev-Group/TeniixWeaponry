@@ -1,0 +1,21 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/gold_nugget"
+    },
+    "overrides": [
+      {
+        "predicate": {
+          "custom_model_data": 1
+        },
+        "model": "minecraft:item/strength_ring"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 2
+        },
+        "model": "minecraft:item/health_ring"
+      }
+    ]
+  }
+  

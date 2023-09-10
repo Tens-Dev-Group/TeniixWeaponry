@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_sword"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "minecraft:item/netherite_rapier"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:item/netherite_greatsword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "minecraft:item/netherite_scythe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "minecraft:item/netherite_dagger"
+    }
+  ]
+}
