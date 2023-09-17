@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "teniix_weaponry:glitch_armor"
+            }
+        }
+    },
+    "rewards": {
+        "function": "teniix_weaponry:glitch_armor"
+    }
+}
